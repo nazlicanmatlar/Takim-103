@@ -23,9 +23,9 @@ Bu heyecan dolu oyunda oyuncular, Türk kültürünün zenginlikleriyle tanışa
 - Sürükleyici Hikaye: Zaman ajanının maceraları, sinematik ara sahnelerle desteklenen derin ve etkileyici bir hikaye ile sunulur.
 - Gelişmiş Grafikler ve Ses: Yüksek çözünürlüklü grafikler ve Türk kültürüne özgü müzikler ile oyunun atmosferi güçlendirilmiştir.
 - Karakter Gelişimi: Oyuncular, ajanlarının yeteneklerini ve ekipmanlarını geliştirebilir, daha zorlayıcı görevlerde daha etkili hale gelebilirler.
-- Çoklu Oyun Modları: Tek oyunculu hikaye modunun yanı sıra, arkadaşlarınızla veya diğer oyuncularla birlikte oynayabileceğiniz çok oyunculu modlar da mevcuttur.
+
 ## Hedef Kitle :
--Tarih ve Macera Meraklıları: Türk tarihine ve kültürüne ilgi duyan, geçmiş dönemlerdeki önemli olayları keşfetmek isteyen oyuncular.
+- Tarih ve Macera Meraklıları: Türk tarihine ve kültürüne ilgi duyan, geçmiş dönemlerdeki önemli olayları keşfetmek isteyen oyuncular.
 - Bulmaca Sevenler: Zihinsel meydan okumaları seven, karmaşık bulmacaları çözmekten keyif alan bireyler.
 - Genç ve Yetişkin Oyuncular: 15 yaş ve üzeri, hikaye odaklı oyunlardan hoşlanan, stratejik düşünme yeteneğine sahip oyuncular.
 - Eğitimciler ve Öğrenciler: Tarih ve kültür derslerini eğlenceli ve etkileşimli bir şekilde öğrenmek isteyen eğitimciler ve öğrenciler.
